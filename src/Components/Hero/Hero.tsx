@@ -8,7 +8,7 @@ function Hero() {
     return (
         <div className='hero'>
             <video autoPlay loop muted id='video'>
-                <source src="malidives.mp4" type='video/mp4' />
+                <source src="video.mp4" type='video/mp4' />
             </video>
             <div className="overlay"></div>
             <div className="content">
