@@ -2,7 +2,8 @@
 
 
 <p align="center">
- (https://github.com/Juhaszcsenge/Travel_Agency/assets/96292546/073466f3-f0be-4bf6-a4f1-8ba369a5c02e)
+ ![Alt szöveg](screen.png)
+
 </p>
 
 
