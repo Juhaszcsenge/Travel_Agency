@@ -1,5 +1,5 @@
 # Weboldal live demoja elérhető ezen a linken 
-https://master--friendly-lollipop-811520.netlify.app/
+ https://scintillating-babka-043ef4.netlify.app/
 
 ### `npm start`
 
