@@ -1,16 +1,13 @@
  
 
 
-<p align="center">
- (https://github.com/public/screen.png)
-
-</p>
 
 
 
 
 
 
+![Alt szöveg](/public/screen.png)
 
 
 
