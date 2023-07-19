@@ -2,7 +2,7 @@
 
 
 <p align="center">
- ![Alt szöveg](screen.png)
+ (https://github.com/public/screen.png)
 
 </p>
 
