@@ -1,16 +1,3 @@
- 
-
-
-
-
-
-
-
-
-![Alt szöveg](/public/screen.png)
-
-
-
 
 # Getting Started with Create React App
 
