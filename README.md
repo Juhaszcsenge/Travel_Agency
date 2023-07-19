@@ -1,5 +1,5 @@
 # Weboldal live demoja elérhető ezen a linken 
-https://master--comforting-churros-b5bbd4.netlify.app/
+https://master--friendly-lollipop-811520.netlify.app/
 
 ### `npm start`
 
