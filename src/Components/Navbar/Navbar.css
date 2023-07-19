@@ -7,10 +7,10 @@
     padding: 0 1rem;
     z-index: 2;
     position: absolute;
-    color: rgb(78, 107, 168);
+    color: rgb(254, 254, 255);
 }
 .navbar-bg {
-    background-color: #757ed4;
+    background-color: #white;
 }
 
 .nav-menu {
